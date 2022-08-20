@@ -1,0 +1,8 @@
+/source/c++20/cmake-build-debug/CMakeFiles/edit_cache.dir
+/source/c++20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/source/c++20/cmake-build-debug/src/CMakeFiles/cxx20lib.dir
+/source/c++20/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/source/c++20/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/source/c++20/cmake-build-debug/test/doctest/CMakeFiles/doctest-main.dir
+/source/c++20/cmake-build-debug/test/doctest/CMakeFiles/edit_cache.dir
+/source/c++20/cmake-build-debug/test/doctest/CMakeFiles/rebuild_cache.dir

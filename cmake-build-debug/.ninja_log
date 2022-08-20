@@ -1,0 +1,13 @@
+# ninja log v5
+304	372	1660986348995249352	test/doctest/doctest-main	5e6cfc94d573f2b0
+1	1885	1660986024510841965	test/doctest/CMakeFiles/doctest-main.dir/doctest-main.cxx.o	8285f51356769b2f
+0	15	1660992208767611305	build.ninja	32e466b2c64c8cda
+1	399	1660991967241503348	test/doctest/CMakeFiles/doctest-main.dir/concepts/printF.cxx.o	42adc1c143c14ed3
+1	260	1660992236359750748	src/CMakeFiles/cxx20lib.dir/util/Assert.cxx.o	b13f4e2cbed4922f
+261	327	1660992236423751076	test/doctest/doctest-main	28abde3e5add6d3f
+1	399	1660992598641910235	test/doctest/CMakeFiles/doctest-main.dir/concepts/printF.cxx.o	42adc1c143c14ed3
+400	469	1660992598709910685	test/doctest/doctest-main	28abde3e5add6d3f
+1	434	1660992906584057113	test/doctest/CMakeFiles/doctest-main.dir/concepts/printF.cxx.o	42adc1c143c14ed3
+434	501	1660992906648057579	test/doctest/doctest-main	28abde3e5add6d3f
+0	433	1660992927044206058	test/doctest/CMakeFiles/doctest-main.dir/concepts/printF.cxx.o	42adc1c143c14ed3
+433	503	1660992927112206553	test/doctest/doctest-main	28abde3e5add6d3f
